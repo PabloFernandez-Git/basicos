@@ -42,6 +42,7 @@ function App() {
 
       <Carrito 
         carrito={carrito}
+        agregarProducto={agregarProducto}
       />
 
       <Footer 
